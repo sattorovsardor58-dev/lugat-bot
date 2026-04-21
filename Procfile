@@ -1,1 +1,1 @@
-worker: python bot.py
+worker: python vocabulary_bot.py
